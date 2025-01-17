@@ -1,6 +1,3 @@
-# Power-BI
-Data analysis projects using Power BI.
-
  # Power BI Projects Repository 🚀
 
 Bienvenido a este repositorio dedicado a proyectos desarrollados en **Power BI**, diseñado para facilitar la creación, análisis y visualización de datos de manera eficiente.
